@@ -16,7 +16,7 @@
 
 ### 🚀 Projects
 
-🩸 **Leuk-Detect**  
+**Leuk-Detect**  
 Team project (4 members) built at Le Wagon:  
 → Developed an AI model to predict blood cancer from microscope images using **Vision Transformers**  
 → Reached **96% accuracy**, outperforming traditional models  
@@ -25,16 +25,16 @@ Team project (4 members) built at Le Wagon:
 
 ---
 
-🌱 Currently learning more about:
+Currently learning more about:
 - Foundation models and their application in non-NLP domains  
 - Data-centric AI & model interpretability  
 - Full-stack deployment of AI systems
 
-👀 I’m looking to collaborate on:
+I’m looking to collaborate on:
 - Smart, purpose-driven AI projects  
 - Early-stage prototypes with real-world application potential  
 - Anything that combines **machine learning** + **impact**
 
 ---
 
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/oskar-sommer-bb5203324)  
+Reach me on [LinkedIn](https://www.linkedin.com/in/oskar-sommer-bb5203324)  
