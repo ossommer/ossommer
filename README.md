@@ -1,5 +1,3 @@
----
-
 ### 🧠 Tech Stack & Tools
 `Python` | `Machine Learning (Scikit-learn)` | `Deep Learning (TensorFlow, Keras)`  
 `Data Analytics (Pandas, NumPy, SQL, BigQuery, Matplotlib)`  
